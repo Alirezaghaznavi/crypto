@@ -4,6 +4,12 @@ A Flutter project
 
 ## Getting Started
 
-<img src="crypto_curency_app_1.png" alt="" width="375" height="677">
+<table>
+      <tr>
+        <td><img src="crypto_curency_app_1.png" alt="" width="375" height="677"></td>
+      </tr>
+      <tr>
+        <td><img src="crypto_curency_app_2.png" alt="" width="375" height="677"></td>
+      </tr>
+</table>
 
-<img src="crypto_curency_app_2.png" alt="" width="375" height="677">
